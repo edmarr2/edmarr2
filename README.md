@@ -1,4 +1,5 @@
 ### BEM VINDO 👋
+AQUI SE ENCONTRA ALGUNS DOS MEUS HOBBIES PREFERIDOS
 <!--
 **edmarr2/edmarr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
