@@ -1,4 +1,7 @@
 ### BEM VINDO 👋
+# Portfólio: https://portfolio-edmar.netlify.app/
+# Linkedin: https://www.linkedin.com/in/edmar-espinola-3a17234a
+# Contato: Edmar_espinola@hotmail.com
 <!--
 **edmarr2/edmarr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
