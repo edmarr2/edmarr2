@@ -1,4 +1,4 @@
-# BEM VINDO 👋
+# WELCOME 👋
 ### Portfólio: https://portfolio-edmar.netlify.app/
 ### Linkedin: https://www.linkedin.com/in/edmar-espinola-3a17234a
 ### Contato: Edmar_espinola@hotmail.com
